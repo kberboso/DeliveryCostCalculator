@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.App.exe
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.App.deps.json
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.App.runtimeconfig.json
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.App.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.App.dll
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.App.pdb
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.dll
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.pdb
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.genruntimeconfig.cache
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.dll
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.pdb
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.App.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.deps.json
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.dll
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\bin\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.pdb
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.dll
+C:\Users\kevin\source\repos\DeliveryCostCalculator\DeliveryCostCalculator.Business\obj\Debug\netcoreapp3.1\DeliveryCostCalculator.Business.pdb
